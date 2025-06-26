@@ -1,0 +1,161 @@
+gene_id,disease_name,disease_id,score,evidence_level,shared_gene
+1312,Bipolar Disorders,C0005586,1.0,,True
+627,Bipolar Disorders,C0005586,1.0,,True
+6532,Bipolar Disorders,C0005586,1.0,,True
+6532,MDD,C1269683,0.95,,True
+627,MDD,C1269683,0.95,,True
+775,Bipolar Disorders,C0005586,0.95,,True
+2915,MDD,C1269683,0.9,,True
+9575,Bipolar Disorders,C0005586,0.9,,True
+2932,Bipolar Disorders,C0005586,0.9,,True
+3458,MDD,C1269683,0.85,,True
+7124,MDD,C1269683,0.85,,True
+4128,MDD,C1269683,0.85,,True
+2908,MDD,C1269683,0.85,,True
+3569,MDD,C1269683,0.85,,True
+2289,MDD,C1269683,0.85,,True
+6285,MDD,C1269683,0.85,,True
+3350,MDD,C1269683,0.85,,True
+3553,MDD,C1269683,0.85,,True
+27185,Bipolar Disorders,C0005586,0.85,,True
+4684,Bipolar Disorders,C0005586,0.85,,True
+7124,Bipolar Disorders,C0005586,0.85,,True
+3569,Bipolar Disorders,C0005586,0.85,,True
+3553,Bipolar Disorders,C0005586,0.85,,True
+121278,MDD,C1269683,0.8,,True
+1813,MDD,C1269683,0.8,,True
+775,MDD,C1269683,0.8,,True
+4524,MDD,C1269683,0.8,,True
+4915,MDD,C1269683,0.8,,True
+2668,MDD,C1269683,0.8,,True
+1312,MDD,C1269683,0.8,,True
+7422,MDD,C1269683,0.8,,True
+2908,Bipolar Disorders,C0005586,0.8,,True
+1813,Bipolar Disorders,C0005586,0.8,,True
+3356,Bipolar Disorders,C0005586,0.8,,True
+3358,Bipolar Disorders,C0005586,0.8,,True
+121278,Bipolar Disorders,C0005586,0.8,,True
+4524,Bipolar Disorders,C0005586,0.8,,True
+6285,Bipolar Disorders,C0005586,0.8,,True
+4747,Bipolar Disorders,C0005586,0.8,,True
+3358,MDD,C1269683,0.75,,True
+2670,MDD,C1269683,0.75,,True
+27185,MDD,C1269683,0.75,,True
+3356,MDD,C1269683,0.75,,True
+9575,MDD,C1269683,0.75,,True
+4684,MDD,C1269683,0.75,,True
+2289,Bipolar Disorders,C0005586,0.75,,True
+3458,Bipolar Disorders,C0005586,0.75,,True
+4915,Bipolar Disorders,C0005586,0.75,,True
+2915,Bipolar Disorders,C0005586,0.75,,True
+4133,MDD,C1269683,0.7,,True
+2932,MDD,C1269683,0.7,,True
+4747,MDD,C1269683,0.7,,True
+1815,MDD,C1269683,0.7,,True
+7422,Bipolar Disorders,C0005586,0.7,,True
+2670,Bipolar Disorders,C0005586,0.7,,True
+4133,Bipolar Disorders,C0005586,0.7,,True
+2668,Bipolar Disorders,C0005586,0.7,,True
+4128,Bipolar Disorders,C0005586,0.7,,True
+3350,Bipolar Disorders,C0005586,0.7,,True
+1815,Bipolar Disorders,C0005586,0.7,,True
+2571,Bipolar Disorders,C0005586,1.0,,False
+5649,Bipolar Disorders,C0005586,0.95,,False
+288,Bipolar Disorders,C0005586,0.95,,False
+2903,Bipolar Disorders,C0005586,0.95,,False
+23345,Bipolar Disorders,C0005586,0.9,,False
+3630,Bipolar Disorders,C0005586,0.9,,False
+1392,MDD,C1269683,0.85,,False
+9568,MDD,C1269683,0.85,,False
+1565,MDD,C1269683,0.85,,False
+1401,MDD,C1269683,0.85,,False
+3084,Bipolar Disorders,C0005586,0.85,,False
+207,Bipolar Disorders,C0005586,0.85,,False
+3613,Bipolar Disorders,C0005586,0.85,,False
+1463,Bipolar Disorders,C0005586,0.85,,False
+2904,Bipolar Disorders,C0005586,0.85,,False
+5443,Bipolar Disorders,C0005586,0.85,,False
+3576,Bipolar Disorders,C0005586,0.85,,False
+84062,Bipolar Disorders,C0005586,0.85,,False
+2569,Bipolar Disorders,C0005586,0.85,,False
+1394,MDD,C1269683,0.8,,False
+5243,MDD,C1269683,0.8,,False
+6530,MDD,C1269683,0.8,,False
+3952,MDD,C1269683,0.8,,False
+1557,MDD,C1269683,0.8,,False
+5020,MDD,C1269683,0.8,,False
+267012,Bipolar Disorders,C0005586,0.8,,False
+160851,Bipolar Disorders,C0005586,0.8,,False
+6616,Bipolar Disorders,C0005586,0.8,,False
+1139,Bipolar Disorders,C0005586,0.8,,False
+3479,Bipolar Disorders,C0005586,0.8,,False
+27445,MDD,C1269683,0.75,,False
+1268,MDD,C1269683,0.75,,False
+4129,MDD,C1269683,0.75,,False
+54862,MDD,C1269683,0.75,,False
+3351,MDD,C1269683,0.75,,False
+4306,MDD,C1269683,0.75,,False
+1385,MDD,C1269683,0.75,,False
+1129,Bipolar Disorders,C0005586,0.75,,False
+282706,Bipolar Disorders,C0005586,0.75,,False
+5428,Bipolar Disorders,C0005586,0.75,,False
+91752,Bipolar Disorders,C0005586,0.75,,False
+7466,Bipolar Disorders,C0005586,0.75,,False
+157,Bipolar Disorders,C0005586,0.75,,False
+4535,Bipolar Disorders,C0005586,0.75,,False
+6671,Bipolar Disorders,C0005586,0.75,,False
+8863,Bipolar Disorders,C0005586,0.75,,False
+9415,Bipolar Disorders,C0005586,0.75,,False
+478,Bipolar Disorders,C0005586,0.75,,False
+7054,Bipolar Disorders,C0005586,0.75,,False
+1812,Bipolar Disorders,C0005586,0.75,,False
+10611,Bipolar Disorders,C0005586,0.75,,False
+5027,Bipolar Disorders,C0005586,0.75,,False
+406928,Bipolar Disorders,C0005586,0.75,,False
+9572,Bipolar Disorders,C0005586,0.75,,False
+1814,Bipolar Disorders,C0005586,0.75,,False
+6531,Bipolar Disorders,C0005586,0.75,,False
+4729,Bipolar Disorders,C0005586,0.75,,False
+5999,Bipolar Disorders,C0005586,0.75,,False
+6570,Bipolar Disorders,C0005586,0.75,,False
+7226,Bipolar Disorders,C0005586,0.75,,False
+23774,Bipolar Disorders,C0005586,0.75,,False
+2902,Bipolar Disorders,C0005586,0.75,,False
+406,Bipolar Disorders,C0005586,0.75,,False
+116443,Bipolar Disorders,C0005586,0.75,,False
+3240,MDD,C1269683,0.7,,False
+6303,MDD,C1269683,0.7,,False
+5021,MDD,C1269683,0.7,,False
+4045,MDD,C1269683,0.7,,False
+1636,MDD,C1269683,0.7,,False
+7166,MDD,C1269683,0.7,,False
+4852,MDD,C1269683,0.7,,False
+551,Bipolar Disorders,C0005586,0.7,,False
+2596,Bipolar Disorders,C0005586,0.7,,False
+351,Bipolar Disorders,C0005586,0.7,,False
+7099,Bipolar Disorders,C0005586,0.7,,False
+3697,Bipolar Disorders,C0005586,0.7,,False
+5142,Bipolar Disorders,C0005586,0.7,,False
+55690,Bipolar Disorders,C0005586,0.7,,False
+6755,Bipolar Disorders,C0005586,0.7,,False
+2913,Bipolar Disorders,C0005586,0.7,,False
+2556,Bipolar Disorders,C0005586,0.7,,False
+6095,Bipolar Disorders,C0005586,0.7,,False
+1644,Bipolar Disorders,C0005586,0.7,,False
+108,Bipolar Disorders,C0005586,0.7,,False
+81562,Bipolar Disorders,C0005586,0.7,,False
+2558,Bipolar Disorders,C0005586,0.7,,False
+2898,Bipolar Disorders,C0005586,0.7,,False
+2066,Bipolar Disorders,C0005586,0.7,,False
+7494,Bipolar Disorders,C0005586,0.7,,False
+6869,Bipolar Disorders,C0005586,0.7,,False
+815,Bipolar Disorders,C0005586,0.7,,False
+553,Bipolar Disorders,C0005586,0.7,,False
+84628,Bipolar Disorders,C0005586,0.7,,False
+1610,Bipolar Disorders,C0005586,0.7,,False
+22941,Bipolar Disorders,C0005586,0.7,,False
+23245,Bipolar Disorders,C0005586,0.7,,False
+291,Bipolar Disorders,C0005586,0.7,,False
+4153,Bipolar Disorders,C0005586,0.7,,False
+1621,Bipolar Disorders,C0005586,0.7,,False
+84152,Bipolar Disorders,C0005586,0.7,,False

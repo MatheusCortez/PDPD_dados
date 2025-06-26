@@ -1,0 +1,35 @@
+drug_name,drug_id,disease_name,disease_id,NCT,status,phase,DetailedStatus
+Zonisamide,DB00909,Bipolar Disorder,C0005586,NCT01566370,Terminated,Phase 2,recruitment infeasible
+Lamotrigine,DB00555,Bipolar Disorder,C0005586,NCT00907985,Terminated,Phase 1,Slow recruitment; trial unlikely to reach completion
+Lithium,DB01356,Major Depressive Disorder,C1269683,NCT00400088,Terminated,Phase 3,Recruitment difficulties
+Quetiapine,DB01224,Major Depressive Disorder,C1269683,NCT00868374,Terminated,Phase 3,Study terminated due to low enrollment
+Lamotrigine,DB00555,Bipolar Disorder,C0005586,NCT00063362,Terminated,Phase 3,Funding Expiration
+Ziprasidone,DB00246,Bipolar Disorder,C0005586,NCT01113541,Terminated,Phase 3,See termination reason in detailed description.
+Aripiprazole,DB01238,Bipolar Disorder,C0005586,NCT01520350,Terminated,Phase 3,recruitment issues
+Ketamine,DB01221,Bipolar Disorder,C0005586,NCT01504659,Suspended,Phase 2/Phase 3,Protocol Revisions
+Reboxetine,DB00234,Major Depressive Disorder,C1269683,,Approved,,
+Dosulepin,DB09167,Major Depressive Disorder,C1269683,,Approved,,
+Brexpiprazole,DB09128,Major Depressive Disorder,C1269683,,Approved,,
+Vortioxetine,DB09068,Major Depressive Disorder,C1269683,,Approved,,
+Levomilnacipran,DB08918,Major Depressive Disorder,C1269683,,Approved,,
+Desvenlafaxine,DB06700,Major Depressive Disorder,C1269683,,Approved,,
+Vilazodone,DB06684,Major Depressive Disorder,C1269683,,Approved,,
+Agomelatine,DB06594,Major Depressive Disorder,C1269683,,Approved,,
+Mianserin,DB06148,Major Depressive Disorder,C1269683,,Approved,,
+Citalopram,DB00215,Major Depressive Disorder,C1269683,,Approved,,
+Isocarboxazid,DB01247,Major Depressive Disorder,C1269683,,Approved,,
+Quetiapine,DB01224,Bipolar Disorder,C0005586,,Approved,,
+Escitalopram,DB01175,Major Depressive Disorder,C1269683,,Approved,,
+Bupropion,DB01156,Major Depressive Disorder,C1269683,,Approved,,
+Nefazodone,DB01149,Major Depressive Disorder,C1269683,,Approved,,
+Selegiline,DB01037,Major Depressive Disorder,C1269683,,Approved,,
+Tranylcypromine,DB00752,Major Depressive Disorder,C1269683,,Approved,,
+Paroxetine,DB00715,Major Depressive Disorder,C1269683,,Approved,,
+Trazodone,DB00656,Major Depressive Disorder,C1269683,,Approved,,
+Duloxetine,DB00476,Major Depressive Disorder,C1269683,,Approved,,
+Fluoxetine,DB00472,Major Depressive Disorder,C1269683,,Approved,,
+Loxapine,DB00408,Bipolar Disorder,C0005586,,Approved,,
+Mirtazapine,DB00370,Major Depressive Disorder,C1269683,,Approved,,
+Olanzapine,DB00334,Major Depressive Disorder,C1269683,,Approved,,
+Venlafaxine,DB00285,Major Depressive Disorder,C1269683,,Approved,,
+Lithium,DB01356,Bipolar Disorder,C0005586,,Approved,,
